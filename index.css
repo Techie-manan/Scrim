@@ -10,7 +10,11 @@ html, body {
 }
 
 /* typography */
-
+.bg{
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(135deg, #8a1ee2 0%, #c3cfe2 100%);
+}
 h1{
     font-size: 48px;
     line-height: 60px;
@@ -77,7 +81,7 @@ main{
     width: 350px;
     border-radius: 25px;
     box-shadow: 0px 0px 6px 2px #666;
-    background-color: #212529;
+    background-color: #805c80;
     color: whitesmoke;
 }
 
