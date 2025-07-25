@@ -1,5 +1,5 @@
 {
-  "name": "Scrim-s02ti59",
+  "name": "Scrim",
   "description": "https://scrimba.com/fullstack-path-c0fullstack/~0ef/s0fespdg22/head",
   "scripts": {
     "start": "vite",
@@ -8,7 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vite": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "vite": "latest"
+  }
 }
