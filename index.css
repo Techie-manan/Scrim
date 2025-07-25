@@ -118,6 +118,7 @@ main{
 }
 
 .modal-choice-btns{
+    gap: 5px;
     margin-top: 10px;
     padding: 8px 16px;
     display: flex;
@@ -127,6 +128,7 @@ main{
 .modal-btn{
     padding: 10px 24px;
     cursor: pointer;
+    border-radius: 25px;
 }
 
 .modal-btns-reverse{
@@ -155,7 +157,7 @@ input{
 }
 
 .modal-text{
-    height: 140px;
+    height: 80px;
     line-height: 23px;
     margin-bottom: 0;
 }
@@ -170,3 +172,12 @@ input{
     border-radius: 5px;
 }
 
+.video {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.rounded {
+    border-radius: 25px;
+}   
